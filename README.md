@@ -1,2 +1,2 @@
 # NBA-MVP-Predictor
-Predicts NBA MVP using a regression model
+Predicts NBA MVP using random forest regression model
